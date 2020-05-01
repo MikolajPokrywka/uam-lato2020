@@ -1,4 +1,4 @@
-package pl.psi.game.Spellbook;
+package pl.psi.game.spellbook;
 
 public class BuffDebuffTest {
 }
